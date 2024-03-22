@@ -11,6 +11,3 @@
 [submodule "3rdparty/NVTX"]
 	path = 3rdparty/NVTX
 	url = https://github.com/NVIDIA/NVTX.git
-[submodule "GPTQ-for-LLaMa"]
-	path = GPTQ-for-LLaMa
-	url = https://github.com/qwopqwop200/GPTQ-for-LLaMa.git
